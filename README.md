@@ -1,4 +1,4 @@
-#vagrant-verskis
+#vagrant-capital-maps-api
 
 * CentOS 6.5
 * PHP 5.4
