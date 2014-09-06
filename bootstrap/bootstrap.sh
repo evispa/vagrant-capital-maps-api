@@ -13,6 +13,9 @@ sudo cp /bootstrap/etc/yum.repos.d/remi.repo /etc/yum.repos.d/remi.repo;
 # nginx
 sudo yum install nginx -y;
 
+# nano
+sudo yum install nano -y;
+
 # php
 sudo yum install php -y;
 
