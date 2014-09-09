@@ -1,6 +1,6 @@
 #vagrant-capital-maps-api
 
-* CentOS 6.5
+* CentOS 6.5 x86_64
 * PHP 5.4
 * nginx (php-fpm)
 
@@ -20,6 +20,7 @@
 
 ### Requirements
 
+ * Host with enabled virtualization extensions in BIOS
  * Host unix-like OS (strongly recommended)
  * Host NFS (```sudo apt-get install -y nfs-kernel-server```)
  * Vagrant >=1.6.0
